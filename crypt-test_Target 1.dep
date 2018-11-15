@@ -1,0 +1,26 @@
+Dependencies for Project 'crypt-test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x5BBCC0C3)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (..\2_RF_Communication_7_only tx\16x2_LCD.c)(0x5BBCC25C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\16x2_lcd.o --omf_browse .\16x2_lcd.crf --depend .\16x2_lcd.d)
+I (C:\Keil\ARM\Inc\Philips\LPC214x.h)(0x532C9A98)
+I (..\2_RF_Communication_7_only tx\16x2_LCD.h)(0x5AA15E80)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C86E14)
+F (..\2_RF_Communication_7_only tx\UART0_UART1.c)(0x5A9801AA)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\uart0_uart1.o --omf_browse .\uart0_uart1.crf --depend .\uart0_uart1.d)
+I (C:\Keil\ARM\Inc\Philips\LPC214x.h)(0x532C9A98)
+I (..\2_RF_Communication_7_only tx\UART0_UART1.h)(0x5A98018C)
+F (.\main.c)(0x5BC909A5)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\Philips\LPC214X.H)(0x532C9A98)
+I (16X2_LCD.h)(0x5AA15E80)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\time.h)(0x51C86E14)
+I (sha1.h)(0x57CDB284)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+F (.\sha1.h)(0x57CDB284)()
+F (.\sha1.c)(0x57CDB284)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\sha1.o --omf_browse .\sha1.crf --depend .\sha1.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (sha1.h)(0x57CDB284)
+F (.\16X2_LCD.h)(0x5AA15E80)()

@@ -1,0 +1,10 @@
+.\main.o: main.c
+.\main.o: C:\Keil\ARM\Inc\Philips\LPC214X.H
+.\main.o: 16X2_LCD.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
+.\main.o: sha1.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
